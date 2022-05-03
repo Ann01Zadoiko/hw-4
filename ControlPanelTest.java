@@ -1,6 +1,4 @@
-package molude.lesson4;
-
-public class ControlPanelTest {
+class ControlPanelTest {
     public static void main(String[] args) {
         new ControlPanel().control();
     }
